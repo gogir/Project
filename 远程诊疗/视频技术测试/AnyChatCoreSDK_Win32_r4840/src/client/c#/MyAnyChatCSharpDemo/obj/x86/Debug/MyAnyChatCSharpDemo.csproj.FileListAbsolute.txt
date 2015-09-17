@@ -1,0 +1,10 @@
+D:\Project_Management\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\MyAnyChatCSharpDemo\bin\Debug\AnyChatCSharpDemo.exe
+D:\Project_Management\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\MyAnyChatCSharpDemo\bin\Debug\AnyChatCSharpDemo.pdb
+D:\Project_Management\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\MyAnyChatCSharpDemo\obj\x86\Debug\MyAnyChatCSharpDemo.csprojResolveAssemblyReference.cache
+D:\Project_Management\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\MyAnyChatCSharpDemo\obj\x86\Debug\AnyChatCSharpDemo.frmHall.resources
+D:\Project_Management\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\MyAnyChatCSharpDemo\obj\x86\Debug\AnyChatCSharpDemo.frmLogin.resources
+D:\Project_Management\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\MyAnyChatCSharpDemo\obj\x86\Debug\AnyChatCSharpDemo.frmRoom.resources
+D:\Project_Management\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\MyAnyChatCSharpDemo\obj\x86\Debug\AnyChatCSharpDemo.Properties.Resources.resources
+D:\Project_Management\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\MyAnyChatCSharpDemo\obj\x86\Debug\MyAnyChatCSharpDemo.csproj.GenerateResource.Cache
+D:\Project_Management\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\MyAnyChatCSharpDemo\obj\x86\Debug\AnyChatCSharpDemo.exe
+D:\Project_Management\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\MyAnyChatCSharpDemo\obj\x86\Debug\AnyChatCSharpDemo.pdb

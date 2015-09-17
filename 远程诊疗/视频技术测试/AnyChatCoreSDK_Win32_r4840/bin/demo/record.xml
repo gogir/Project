@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <ips>
+    <ip value="demo.anychat.cn" />
+  </ips>
+  <ports>
+    <port value="8906" />
+  </ports>
+  <names>
+    <name value="test" />
+    <name value="DemoTest" />
+    <name value="TestDoctor" />
+  </names>
+</settings>

@@ -1,0 +1,19 @@
+[2015-08-22 13:14:44(729)]	---------------------------AnyChat Platform Core SDK Client Log---------------------------
+[2015-08-22 13:14:44(729)]	Load BRAnyChatCore.dll success!(V5.3 Build Time:Aug 10 2015 12:20:22)
+[2015-08-22 13:14:44(739)]	Load BRMiscUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:50)
+[2015-08-22 13:14:44(813)]	Load BRMediaUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:02)
+[2015-08-22 13:14:44(814)]	Load BRMediaShow.dll success!(V5.3 Build Time:Aug 10 2015 12:20:53)
+[2015-08-22 13:14:44(816)]	Load BRMediaCore.dll success!(V5.3 Build Time:Aug 10 2015 12:21:04)
+[2015-08-22 13:14:46(368)]	Invoke	Connect(demo.anychat.cn,8906)=0
+[2015-08-22 13:14:46(450)]	CheckClientSocketLink	 Connect(ip=121.199.51.198,port=8906)
+[2015-08-22 13:14:46(689)]	Server version: V5.3(Build Time:2015-08-13 22:59:17, Server OS:Windows)
+[2015-08-22 13:14:46(787)]	Message	OnConnect(bSuccess:1, errorcode=0)
+[2015-08-22 13:14:46(787)]	Invoke	LoginServer(username=asdf)
+[2015-08-22 13:14:47(184)]	Message	OnLoginSystem(userid=9643,errorcode=0,username=asdf), msg deliver worked(1)
+[2015-08-22 13:14:47(185)]	Server running time: 8 days, 14 hours, 10 minutes, license mode:1
+[2015-08-22 13:14:47(491)]	Connection to streaming media server successfully!(udp delay:148ms)
+[2015-08-22 13:15:34(522)]	Invoke	VideoCallControl(EventType:1, UserId:9638, ErrorCode:0, dwFlags:0, dwParam:0, UserStr:asdf)=0
+[2015-08-22 13:15:35(336)]	Message	OnVideoCallEvent(EventType:2, UserId:9638, ErrorCode:0, dwFlags:0x0, dwParam:0
+[2015-08-22 13:15:41(705)]	Message	OnVideoCallEvent(EventType:2, UserId:9638, ErrorCode:100104, dwFlags:0x0, dwParam:0
+[2015-08-22 13:15:46(154)]	Invoke	LogoutServer(userid=9643)	Elapse:32 ms
+[2015-08-22 13:15:46(187)]	Invoke	BRAC_Release	Elapse:31 ms

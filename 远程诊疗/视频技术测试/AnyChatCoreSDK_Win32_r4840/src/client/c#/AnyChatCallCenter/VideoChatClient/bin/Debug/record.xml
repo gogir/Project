@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <ips>
+    <ip value="demo.anychat.cn" />
+  </ips>
+  <ports>
+    <port value="8906" />
+  </ports>
+  <names>
+    <name value="asdf" />
+  </names>
+  <previousreocrd>
+    <ip value="demo.anychat.cn" />
+    <port value="8906" />
+    <name value="asdf" />
+  </previousreocrd>
+</settings>

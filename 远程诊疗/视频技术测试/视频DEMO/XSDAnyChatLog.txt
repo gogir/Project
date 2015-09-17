@@ -1,0 +1,24 @@
+﻿2015/9/9 21:51:30    VideoCallControl:ii_RemoteId = 1
+2015/9/9 21:51:30    VideoCallControl:ii_LocalUserId = 2
+2015/9/9 21:52:13    VideoCallControl:ii_RemoteId = 1
+2015/9/9 21:52:13    VideoCallControl:ii_LocalUserId = 2
+2015/9/9 22:25:59    VideoCallControl:ii_RemoteId = 4
+2015/9/9 22:25:59    VideoCallControl:ii_LocalUserId = 3
+2015/9/9 22:26:16    Record_Received:C:\Users\GIR\AppData\Local\Temp\2015-09-09\22-26-11-891_视频测试1_8.mp4,userId:4
+2015/9/9 22:26:52    VideoCallControl:ii_RemoteId = 3
+2015/9/9 22:26:52    VideoCallControl:ii_LocalUserId = 4
+2015/9/16 23:50:02    VideoCallControl:ii_RemoteId = 2
+2015/9/16 23:50:02    VideoCallControl:ii_LocalUserId = 1
+2015/9/16 23:50:28    Record_Received:C:\Users\GIR\AppData\Local\Temp\2015-09-16\23-50-11-784_视频测试2_80.mp4,userId:2
+2015/9/16 23:50:41    VideoCallControl:ii_RemoteId = 1
+2015/9/16 23:50:41    VideoCallControl:ii_LocalUserId = 2
+2015/9/17 0:05:23    VideoCallControl:ii_RemoteId = 3
+2015/9/17 0:05:23    VideoCallControl:ii_LocalUserId = 4
+2015/9/17 0:06:40    Record_Received:C:\Users\GIR\AppData\Local\Temp\2015-09-17\00-06-00-532_YO_6.mp4,userId:4
+2015/9/17 0:08:26    VideoCallControl:ii_RemoteId = 3
+2015/9/17 0:08:26    VideoCallControl:ii_LocalUserId = 4
+2015/9/17 0:10:15    VideoCallControl:ii_RemoteId = 6
+2015/9/17 0:10:15    VideoCallControl:ii_LocalUserId = 5
+2015/9/17 0:10:25    Record_Received:C:\Users\GIR\AppData\Local\Temp\2015-09-17\00-10-20-969_视频测试2_16.mp4,userId:5
+2015/9/17 0:12:19    VideoCallControl:ii_RemoteId = 6
+2015/9/17 0:12:19    VideoCallControl:ii_LocalUserId = 5

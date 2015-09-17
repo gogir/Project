@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f9671d75-84ab-4d15-8122-1807b29312da" name="GIR@YOYO 2015-08-16 14:46:49" runUser="YOYO\GIR" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="bfb5ce39-a539-421c-b915-4e08de7d3b04">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="GIR_YOYO 2015-08-16 14_46_49">
+      <DeploymentItem filename="D:\Project_Management\远程诊疗\技术测试\AnyChatTest\XSDAnyChat\bin\Debug\XSDAnyChat.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-08-16T14:46:49.7237029+08:00" queuing="2015-08-16T14:46:50.7509450+08:00" start="2015-08-16T14:46:50.9981108+08:00" finish="2015-08-16T14:46:53.3908410+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\project_management\远程诊疗\anychatcoresdk_win32_r4840\src\client\c#\anychatcallcenter\testproject1\bin\debug\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Execution id="894e7415-bf78-427e-b496-9cf3d26d370a" />
+      <TestMethod codeBase="D:/Project_Management/远程诊疗/AnyChatCoreSDK_Win32_r4840/src/client/c#/AnyChatCallCenter/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="894e7415-bf78-427e-b496-9cf3d26d370a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="894e7415-bf78-427e-b496-9cf3d26d370a" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="YOYO" duration="00:00:01.7025197" startTime="2015-08-16T14:46:51.1362108+08:00" endTime="2015-08-16T14:46:53.2647513+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="894e7415-bf78-427e-b496-9cf3d26d370a">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 TestProject1.UnitTest1.TestMethod1 引发了异常: 
+System.DllNotFoundException: 无法加载 DLL“BRAnyChatCore.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。</Message>
+          <StackTrace>    在 ANYCHATAPI.AnyChatCoreSDK.ActiveCallLog(Boolean isOpen)
+   在 ANYCHATAPI.SystemSetting.Init(IntPtr hWnd) 位置 D:\Project_Management\远程诊疗\技术测试\AnyChatTest\XSDAnyChat\SystemSetting.cs:行号 25
+   在 XSDAnyChat.AnyChat.Init(Int32 intHandle) 位置 D:\Project_Management\远程诊疗\技术测试\AnyChatTest\XSDAnyChat\AnyChatCom.cs:行号 57
+   在 TestProject1.UnitTest1.TestMethod1() 位置 D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\TestProject1\UnitTest1.cs:行号 18
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

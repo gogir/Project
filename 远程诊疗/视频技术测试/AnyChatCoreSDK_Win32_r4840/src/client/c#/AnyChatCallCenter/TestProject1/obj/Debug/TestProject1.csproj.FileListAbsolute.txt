@@ -1,0 +1,5 @@
+D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\TestProject1\bin\Debug\TestProject1.dll
+D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\TestProject1\bin\Debug\TestProject1.pdb
+D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\TestProject1\obj\Debug\TestProject1.dll
+D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\TestProject1\obj\Debug\TestProject1.pdb

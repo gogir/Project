@@ -1,0 +1,20 @@
+[2015-08-25 00:06:06(484)]	---------------------Init Service--------------------------
+[2015-08-25 00:06:06(487)]	Current File Version[5, 3, 0, 0],Build time:2015-08-10 12:21:30
+[2015-08-25 00:06:06(505)]	Load brservernetlayer.dll success!(V5.3, Build time:Aug 10 2015 12:20:58)
+[2015-08-25 00:06:06(506)]	Start TCP Server Successed(port=8906)!
+[2015-08-25 00:06:06(515)]	Start UDP Server Successed(port=8907)!
+[2015-08-25 00:06:06(521)]	AnyChat IPC Filter Plus Init, Build Time:Aug 10 2015 12:21:02
+[2015-08-25 00:06:06(521)]	Load SDK Filter Plus:IPCFilterPlus.dll Success, ver:SDK Filter Plus (IPC), for Windows V5.3
+[2015-08-25 00:06:06(527)]	Start Server At Demo Mode!
+[2015-08-25 00:06:22(575)]	Successful communicate with the business server!
+[2015-08-25 00:40:05(528)]	Fails to communicate with the business server!
+[2015-08-25 00:41:58(416)]	AnyChatCoreServer has exited with error code:0
+[2015-09-09 21:24:35(653)]	---------------------Init Service--------------------------
+[2015-09-09 21:24:35(657)]	Current File Version[5, 3, 0, 0],Build time:2015-08-10 12:21:30
+[2015-09-09 21:24:35(674)]	Load brservernetlayer.dll success!(V5.3, Build time:Aug 10 2015 12:20:58)
+[2015-09-09 21:24:35(675)]	Start TCP Server Successed(port=8906)!
+[2015-09-09 21:24:35(687)]	Start UDP Server Successed(port=8907)!
+[2015-09-09 21:24:35(693)]	AnyChat IPC Filter Plus Init, Build Time:Aug 10 2015 12:21:02
+[2015-09-09 21:24:35(694)]	Load SDK Filter Plus:IPCFilterPlus.dll Success, ver:SDK Filter Plus (IPC), for Windows V5.3
+[2015-09-09 21:24:35(699)]	Start Server At Demo Mode!
+[2015-09-09 21:24:44(067)]	AnyChatCoreServer has exited with error code:0

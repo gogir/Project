@@ -1,0 +1,2 @@
+AnyChatCoreServer.exe -i
+pause

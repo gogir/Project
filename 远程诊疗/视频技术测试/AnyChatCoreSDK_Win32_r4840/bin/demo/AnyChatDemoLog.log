@@ -1,0 +1,61 @@
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:10551在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:10974在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-15972在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-15970在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-15942在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-15806在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-15779在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-15631在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-15429在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-15246在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-15233在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-15232在线状态:1
+[2015/8/24 23:34:50]GetFriendStatus: 用户id:-10040在线状态:1
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: 0type:  0
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: 10551onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: 10974onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -15972onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -15970onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -15942onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -15806onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -15779onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -15631onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -15429onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -15246onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -15233onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -15232onlineStatus:  上线
+[2015/8/24 23:34:50]WM_GV_FRIENDSTATUS:  useId: -10040onlineStatus:  上线
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:10987在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:10551在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:10974在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-15972在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-15970在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-15942在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-15806在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-15779在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-15631在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-15429在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-15246在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-15233在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-15232在线状态:1
+[2015/8/24 23:34:58]GetFriendStatus: 用户id:-10040在线状态:1
+[2015/8/24 23:34:58]WM_GV_FRIENDSTATUS:  useId: 0type:  0
+[2015/8/24 23:34:58]WM_GV_FRIENDSTATUS:  useId: 10987onlineStatus:  上线
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15974在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:10987在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:10551在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:10974在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15972在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15970在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15942在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15806在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15779在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15631在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15429在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15246在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15233在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-15232在线状态:1
+[2015/8/24 23:35:00]GetFriendStatus: 用户id:-10040在线状态:1
+[2015/8/24 23:35:00]WM_GV_FRIENDSTATUS:  useId: 0type:  0
+[2015/8/24 23:35:00]WM_GV_FRIENDSTATUS:  useId: -15974onlineStatus:  上线
+[2015/8/24 23:35:02]WM_GV_USERATROOM           用户10987进入房间

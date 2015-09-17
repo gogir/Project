@@ -1,0 +1,20 @@
+[2015-09-16 23:22:48(864)]	---------------------------AnyChat Platform Core SDK Client Log---------------------------
+[2015-09-16 23:22:48(864)]	Load BRAnyChatCore.dll success!(V5.3 Build Time:Aug 10 2015 12:20:22)
+[2015-09-16 23:22:48(867)]	Load BRMiscUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:50)
+[2015-09-16 23:22:48(930)]	Load BRMediaUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:02)
+[2015-09-16 23:22:48(931)]	Load BRMediaShow.dll success!(V5.3 Build Time:Aug 10 2015 12:20:53)
+[2015-09-16 23:22:48(934)]	Load BRMediaCore.dll success!(V5.3 Build Time:Aug 10 2015 12:21:04)
+[2015-09-16 23:22:48(987)]	Invoke	Connect(221.236.173.5,8906)=0
+[2015-09-16 23:22:49(035)]	CheckClientSocketLink	 Connect(ip=221.236.173.5,port=8906)
+[2015-09-16 23:22:49(460)]	Server version: V5.3(Build Time:2015-08-10 12:21:30, Server OS:Windows)
+[2015-09-16 23:22:49(654)]	Message	OnConnect(bSuccess:1, errorcode=0)
+[2015-09-16 23:22:50(672)]	Invoke	LoginServer(username=高新区大药房)
+[2015-09-16 23:22:50(982)]	Message	OnLoginSystem(userid=1,errorcode=0,username=高新区大药房), msg deliver worked(1)
+[2015-09-16 23:22:50(983)]	Server running time: 0 days, 0 hours, 0 minutes, license mode:0
+[2015-09-16 23:22:51(094)]	Success add upnp map(port:25603, tcp)
+[2015-09-16 23:22:51(147)]	Connection to streaming media server successfully!(udp delay:78ms)
+[2015-09-16 23:22:51(272)]	Success add upnp map(port:55442, udp)
+[2015-09-16 23:37:49(393)]	OnSocketClose, index(2)-errorcode(0-0), flags:0x441, bTcp(1),userid(-1), list:0
+
+[2015-09-16 23:37:49(401)]	Message	OnLinkClose(reason=2, dwErrorCode:105)
+[2015-09-16 23:39:56(939)]	Invoke	BRAC_Release	Elapse:0 ms

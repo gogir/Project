@@ -1,0 +1,12 @@
+C:\Users\GIR\Downloads\AnyChatCoreSDK_Win32_V5.3\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\bin\Debug\VideoChatHelp.dll
+C:\Users\GIR\Downloads\AnyChatCoreSDK_Win32_V5.3\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\bin\Debug\VideoChatHelp.pdb
+C:\Users\GIR\Downloads\AnyChatCoreSDK_Win32_V5.3\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\obj\Debug\VideoChatHelp.dll
+C:\Users\GIR\Downloads\AnyChatCoreSDK_Win32_V5.3\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\obj\Debug\VideoChatHelp.pdb
+D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\bin\Debug\VideoChatHelp.dll
+D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\bin\Debug\VideoChatHelp.pdb
+D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\obj\Debug\VideoChatHelp.dll
+D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\obj\Debug\VideoChatHelp.pdb
+D:\Project_Management\远程诊疗\技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\bin\Debug\VideoChatHelp.dll
+D:\Project_Management\远程诊疗\技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\bin\Debug\VideoChatHelp.pdb
+D:\Project_Management\远程诊疗\技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\obj\Debug\VideoChatHelp.dll
+D:\Project_Management\远程诊疗\技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatHelp\obj\Debug\VideoChatHelp.pdb
