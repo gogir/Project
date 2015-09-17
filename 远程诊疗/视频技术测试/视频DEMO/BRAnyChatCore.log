@@ -1,136 +1,20 @@
-[2015-09-17 00:10:09(877)]	---------------------------AnyChat Platform Core SDK Client Log---------------------------
-[2015-09-17 00:10:09(877)]	Success add upnp map(port:26073, tcp)
-[2015-09-17 00:10:09(878)]	Load BRAnyChatCore.dll success!(V5.3 Build Time:Aug 10 2015 12:20:22)
-[2015-09-17 00:10:09(882)]	Load BRMiscUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:50)
-[2015-09-17 00:10:09(953)]	Load BRMediaUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:02)
-[2015-09-17 00:10:09(954)]	Load BRMediaShow.dll success!(V5.3 Build Time:Aug 10 2015 12:20:53)
-[2015-09-17 00:10:09(956)]	Load BRMediaCore.dll success!(V5.3 Build Time:Aug 10 2015 12:21:04)
-[2015-09-17 00:10:10(015)]	Invoke	Connect(127.0.0.1,8906)=0
-[2015-09-17 00:10:10(057)]	CheckClientSocketLink	 Connect(ip=127.0.0.1,port=8906)
-[2015-09-17 00:10:10(140)]	Success add upnp map(port:60764, udp)
-[2015-09-17 00:10:10(221)]	Server version: V5.3(Build Time:2015-08-10 12:21:30, Server OS:Windows)
-[2015-09-17 00:10:10(228)]	Message	OnConnect(bSuccess:1, errorcode=0)
-[2015-09-17 00:10:10(252)]	Invoke	LoginServer(username= ”∆µ≤‚ ‘1)
-[2015-09-17 00:10:10(315)]	Message	OnLoginSystem(userid=6,errorcode=0,username= ”∆µ≤‚ ‘1), msg deliver worked(1)
-[2015-09-17 00:10:10(316)]	Server running time: 0 days, 1 hours, 19 minutes, license mode:0
-[2015-09-17 00:10:10(339)]	Connection to streaming media server successfully!(udp delay:15ms)
-[2015-09-17 00:10:11(324)]	Success add upnp map(port:26082, tcp)
-[2015-09-17 00:10:11(568)]	Success add upnp map(port:60766, udp)
-[2015-09-17 00:10:15(404)]	Invoke	VideoCallControl(EventType:1, UserId:6, ErrorCode:0, dwFlags:0, dwParam:0, UserStr: ”∆µ≤‚ ‘2)=0
-[2015-09-17 00:10:15(457)]	Message	OnVideoCallEvent(EventType:2, UserId:6, ErrorCode:0, dwFlags:0x0, dwParam:0
-[2015-09-17 00:10:15(461)]	Message	OnVideoCallEvent(EventType:1, UserId:5, ErrorCode:0, dwFlags:0x0, dwParam:0
-[2015-09-17 00:10:17(573)]	Invoke	VideoCallControl(EventType:2, UserId:5, ErrorCode:0, dwFlags:0, dwParam:0, UserStr:)=0
-[2015-09-17 00:10:17(599)]	Message	OnVideoCallEvent(EventType:3, UserId:6, ErrorCode:0, dwFlags:0x0, dwParam:1
-[2015-09-17 00:10:17(604)]	Message	OnVideoCallEvent(EventType:3, UserId:5, ErrorCode:0, dwFlags:0x0, dwParam:1
-[2015-09-17 00:10:17(611)]	Invoke	EnterRoom(roomid=1)
-[2015-09-17 00:10:17(625)]	Invoke	EnterRoom(roomid=1)
-[2015-09-17 00:10:17(665)]	Message	OnEnterRoom(roomid=1,errorcode=0,siteindex=0)
-[2015-09-17 00:10:17(667)]	Message	OnReceiveOnlineUser(count=1,roomid=1)
-[2015-09-17 00:10:17(669)]	Message	OnEnterRoom(roomid=1,errorcode=0,siteindex=1)
-[2015-09-17 00:10:17(669)]	Message	OnUserEnterRoom(userid=6,nickname= ”∆µ≤‚ ‘1,siteindex=1)
-[2015-09-17 00:10:17(670)]	Message	OnReceiveOnlineUser(count=2,roomid=1)
-[2015-09-17 00:10:17(676)]	Invoke	UserCameraControl(userid=5, bOpen=1, stream=0)
-[2015-09-17 00:10:17(685)]	Invoke	UserSpeakControl(userid=5,bOpen=1)
-[2015-09-17 00:10:17(692)]	Invoke	UserCameraControl(userid=6, bOpen=1, stream=0)
-[2015-09-17 00:10:17(709)]	Invoke	UserSpeakControl(userid=6,bOpen=1)
-[2015-09-17 00:10:17(885)]	WaveIn Audio Capture Driver(¬ÛøÀ∑Á (Realtek High Definition)
-[2015-09-17 00:10:17(885)]	WaveIn Audio Capture Driver(¬ÛøÀ∑Á (Realtek High Definition)
-[2015-09-17 00:10:17(885)]	Audio Init, error:0, device:0, 1, 16000, 16, capmode:0
-[2015-09-17 00:10:17(886)]	Audio codec init, handle:1, 11, 1, 16000, 16, 15850
-[2015-09-17 00:10:17(885)]	Audio Init, error:0, device:0, 1, 16000, 16, capmode:0
-[2015-09-17 00:10:17(887)]	Audio codec init, handle:1, 11, 1, 16000, 16, 15850
-[2015-09-17 00:10:17(894)]	Invoke	SetVideoPos(dwUserId:5, hWnd:0x71188, l:0, t:0, r:320, b:240)
-[2015-09-17 00:10:17(901)]	Invoke	UserCameraControl(userid=6, bOpen=1, stream=0)
-[2015-09-17 00:10:17(902)]	Invoke	SetVideoPos(dwUserId:6, hWnd:0x111248, l:0, t:0, r:320, b:240)
-[2015-09-17 00:10:17(909)]	Invoke	UserSpeakControl(userid=6,bOpen=1)
-[2015-09-17 00:10:17(921)]	Invoke	SetVideoPos(dwUserId:6, hWnd:0x311ae, l:0, t:0, r:320, b:240)
-[2015-09-17 00:10:17(923)]	Invoke	UserCameraControl(userid=5, bOpen=1, stream=0)
-[2015-09-17 00:10:17(938)]	Invoke	UserSpeakControl(userid=5,bOpen=1)
-[2015-09-17 00:10:17(947)]	Audio Playback Device Init(0, 1, 16000, 16), WaveOut Playback Driver
-[2015-09-17 00:10:17(948)]	Audio FX Status: VAD:1, NS:1, AGC:1, AEC:1
-[2015-09-17 00:10:17(956)]	Invoke	SetVideoPos(dwUserId:5, hWnd:0x705b2, l:0, t:0, r:320, b:240)
-[2015-09-17 00:10:17(982)]	Audio Playback Device Init(0, 1, 16000, 16), WaveOut Playback Driver
-[2015-09-17 00:10:17(982)]	Audio FX Status: VAD:1, NS:1, AGC:1, AEC:1
-[2015-09-17 00:10:17(987)]	On Remote UserCameraControl(dwUserId:5, bOpen:1)
-[2015-09-17 00:10:17(987)]	On Remote UserSpeakControl(dwUserId:5, bOpen:1)
-[2015-09-17 00:10:17(987)]	On Remote UserCameraControl(dwUserId:6, bOpen:1)
-[2015-09-17 00:10:17(988)]	On Remote UserSpeakControl(dwUserId:6, bOpen:1)
-[2015-09-17 00:10:18(036)]	userid(6) audio decode, codec:11, 1 channel, 16000Hz
-[2015-09-17 00:10:18(037)]	userid(5) audio decode, codec:11, 1 channel, 16000Hz
-[2015-09-17 00:10:18(116)]	Message	OnP2PConnectState(userid=5, state=1)
-[2015-09-17 00:10:18(159)]	Message	OnP2PConnectState(userid=6, state=1)
-[2015-09-17 00:10:18(172)]	MinCroppingSize(424, 240)	MaxCroppingSize(424, 240)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(174)]	MinCroppingSize(424, 240)	MaxCroppingSize(424, 240)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(175)]	MinCroppingSize(320, 240)	MaxCroppingSize(320, 240)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(176)]	MinCroppingSize(320, 240)	MaxCroppingSize(320, 240)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(176)]	MinCroppingSize(320, 180)	MaxCroppingSize(320, 180)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(177)]	MinCroppingSize(320, 180)	MaxCroppingSize(320, 180)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(177)]	MinCroppingSize(160, 120)	MaxCroppingSize(160, 120)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(178)]	MinCroppingSize(160, 120)	MaxCroppingSize(160, 120)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(178)]	MinCroppingSize(1280, 720)	MaxCroppingSize(1280, 720)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(179)]	MinCroppingSize(1280, 720)	MaxCroppingSize(1280, 720)	Format(YUY2, 0x8d1181)
-[2015-09-17 00:10:18(179)]	MinCroppingSize(960, 544)	MaxCroppingSize(960, 544)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(180)]	MinCroppingSize(960, 544)	MaxCroppingSize(960, 544)	Format(YUY2, 0x8d1181)
-[2015-09-17 00:10:18(181)]	MinCroppingSize(848, 480)	MaxCroppingSize(848, 480)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(181)]	MinCroppingSize(848, 480)	MaxCroppingSize(848, 480)	Format(YUY2, 0x8d1181)
-[2015-09-17 00:10:18(182)]	MinCroppingSize(640, 360)	MaxCroppingSize(640, 360)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(182)]	MinCroppingSize(424, 240)	MaxCroppingSize(424, 240)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(182)]	MinCroppingSize(640, 360)	MaxCroppingSize(640, 360)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(182)]	MinCroppingSize(424, 240)	MaxCroppingSize(424, 240)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(183)]	MinCroppingSize(640, 480)	MaxCroppingSize(640, 480)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(183)]	MinCroppingSize(320, 240)	MaxCroppingSize(320, 240)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(183)]	MinCroppingSize(320, 240)	MaxCroppingSize(320, 240)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(183)]	MinCroppingSize(640, 480)	MaxCroppingSize(640, 480)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(184)]	MinCroppingSize(320, 180)	MaxCroppingSize(320, 180)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(184)]	MinCroppingSize(320, 180)	MaxCroppingSize(320, 180)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(185)]	Video Config Size(320, 240)	Format(YUY2, 25fps)
-[2015-09-17 00:10:18(185)]	MinCroppingSize(160, 120)	MaxCroppingSize(160, 120)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(185)]	MinCroppingSize(160, 120)	MaxCroppingSize(160, 120)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(186)]	MinCroppingSize(1280, 720)	MaxCroppingSize(1280, 720)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(186)]	MinCroppingSize(1280, 720)	MaxCroppingSize(1280, 720)	Format(YUY2, 0x8d1181)
-[2015-09-17 00:10:18(187)]	MinCroppingSize(960, 544)	MaxCroppingSize(960, 544)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(188)]	MinCroppingSize(960, 544)	MaxCroppingSize(960, 544)	Format(YUY2, 0x8d1181)
-[2015-09-17 00:10:18(188)]	MinCroppingSize(848, 480)	MaxCroppingSize(848, 480)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(189)]	MinCroppingSize(848, 480)	MaxCroppingSize(848, 480)	Format(YUY2, 0x8d1181)
-[2015-09-17 00:10:18(190)]	MinCroppingSize(640, 360)	MaxCroppingSize(640, 360)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(190)]	MinCroppingSize(640, 360)	MaxCroppingSize(640, 360)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(191)]	MinCroppingSize(640, 480)	MaxCroppingSize(640, 480)	Format(YUY2, 0x32595559)
-[2015-09-17 00:10:18(191)]	MinCroppingSize(640, 480)	MaxCroppingSize(640, 480)	Format(YUY2, 0x8d2681)
-[2015-09-17 00:10:18(192)]	Video Config Size(320, 240)	Format(YUY2, 25fps)
-[2015-09-17 00:10:18(203)]	CaptureControl(bStart:1, bInit:1, hr:-2147023446)
-[2015-09-17 00:10:18(203)]	video init finish:424x240, YUY2, fps:25, codecid:1
-[2015-09-17 00:10:18(210)]	video init finish:424x240, YUY2, fps:25, codecid:1
-[2015-09-17 00:10:18(288)]	Message	OnP2PConnectState(userid=5, state=3)
-[2015-09-17 00:10:18(333)]	Message	OnP2PConnectState(userid=6, state=3)
-[2015-09-17 00:10:18(797)]	video codec init:codec:1, 15fps, 424x240, bitrate:90kbps, quality:3, preset:3, gop:30, handle:3
-[2015-09-17 00:10:18(940)]	userid(5) video decode, codec:1, 424x240, delay:0ms
-[2015-09-17 00:10:20(889)]	Invoke	StreamRecordCtrlEx(5, 1, 0x20, 0, )=0
-[2015-09-17 00:10:20(894)]	user(5) record audio stream parameter: codec:11, 1 channel, 16000Hz
-[2015-09-17 00:10:20(967)]	User(5) record video stream parameter: codec:1, 424x240, 15fps
-[2015-09-17 00:10:25(882)]	Record audio parameters: aac(86018), 2 channel, 16.0kHz, 64kbps
-[2015-09-17 00:10:25(883)]	Record video parameters: h264(28), 424x240, 15fps, 0kbps
-[2015-09-17 00:10:25(883)]	Record status, input video count:72(4828 ms), record video count:74(4933 ms), 15 fps, audio frame count:76800(4800 ms), audio_eof:1, video_eof:1
-[2015-09-17 00:10:25(884)]	Record filename: C:\Users\GIR\AppData\Local\Temp\2015-09-17\00-10-20-969_ËßÜÈ¢ëÊµãËØï2_16.mp4
-[2015-09-17 00:10:25(884)]	Invoke	StreamRecordCtrlEx(5, 0, 0x20, 0, )=0
-[2015-09-17 00:12:19(317)]	Invoke	VideoCallControl(EventType:4, UserId:6, ErrorCode:100104, dwFlags:0, dwParam:0, UserStr:)=0
-[2015-09-17 00:12:19(328)]	Message	OnVideoCallEvent(EventType:4, UserId:6, ErrorCode:100104, dwFlags:0x0, dwParam:0
-[2015-09-17 00:12:19(335)]	Message	OnVideoCallEvent(EventType:4, UserId:5, ErrorCode:100104, dwFlags:0x0, dwParam:0
-[2015-09-17 00:12:19(344)]	Invoke	UserCameraControl(userid=-1, bOpen=0, stream=0)
-[2015-09-17 00:12:19(351)]	Invoke	UserCameraControl(userid=-1, bOpen=0, stream=0)
-[2015-09-17 00:12:19(359)]	Invoke	UserSpeakControl(userid=-1,bOpen=0)
-[2015-09-17 00:12:19(364)]	Invoke	UserCameraControl(userid=5, bOpen=0, stream=0)
-[2015-09-17 00:12:19(369)]	Invoke	UserSpeakControl(userid=5,bOpen=0)
-[2015-09-17 00:12:19(384)]	Invoke	LeaveRoom(roomid=-1)	Elapse:15 ms
-[2015-09-17 00:12:19(414)]	On Remote UserCameraControl(dwUserId:6, bOpen:0)
-[2015-09-17 00:12:19(414)]	On Remote UserSpeakControl(dwUserId:6, bOpen:0)
-[2015-09-17 00:12:19(415)]	Message	OnUserLeaveRoom(userid=6,siteindex=1)
-[2015-09-17 00:12:19(542)]	Invoke	UserSpeakControl(userid=-1,bOpen=0)
-[2015-09-17 00:12:19(561)]	Invoke	UserCameraControl(userid=6, bOpen=0, stream=0)
-[2015-09-17 00:12:19(582)]	Invoke	UserSpeakControl(userid=6,bOpen=0)
-[2015-09-17 00:12:19(631)]	Invoke	LeaveRoom(roomid=-1)	Elapse:32 ms
-[2015-09-17 00:12:20(672)]	OnSocketClose, index(3)-errorcode(0-0), flags:0x481, bTcp(1),userid(5), list:0
-
-[2015-09-17 00:12:20(675)]	Invoke	LogoutServer(userid=5)	Elapse:16 ms
-[2015-09-17 00:12:21(933)]	Invoke	LogoutServer(userid=6)	Elapse:62 ms
-[2015-09-17 00:12:23(982)]	Invoke	BRAC_Release	Elapse:47 ms
-[2015-09-17 00:12:25(250)]	Invoke	BRAC_Release	Elapse:32 ms
+[2015-09-18 01:07:49(177)]	---------------------------AnyChat Platform Core SDK Client Log---------------------------
+[2015-09-18 01:07:49(177)]	Load BRAnyChatCore.dll success!(V5.3 Build Time:Aug 10 2015 12:20:22)
+[2015-09-18 01:07:49(182)]	Load BRMiscUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:50)
+[2015-09-18 01:07:49(254)]	Load BRMediaUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:02)
+[2015-09-18 01:07:49(256)]	Load BRMediaShow.dll success!(V5.3 Build Time:Aug 10 2015 12:20:53)
+[2015-09-18 01:07:49(258)]	Load BRMediaCore.dll success!(V5.3 Build Time:Aug 10 2015 12:21:04)
+[2015-09-18 01:07:49(324)]	Invoke	Connect(127.0.0.1,8906)=0
+[2015-09-18 01:07:49(360)]	CheckClientSocketLink	 Connect(ip=127.0.0.1,port=8906)
+[2015-09-18 01:07:49(459)]	Server version: V5.3(Build Time:2015-08-10 12:21:30, Server OS:Windows)
+[2015-09-18 01:07:49(467)]	Message	OnConnect(bSuccess:1, errorcode=0)
+[2015-09-18 01:07:49(483)]	Invoke	LoginServer(username= ”∆µ≤‚ ‘2)
+[2015-09-18 01:07:49(554)]	Message	OnLoginSystem(userid=6,errorcode=0,username= ”∆µ≤‚ ‘2), msg deliver worked(1)
+[2015-09-18 01:07:49(555)]	Server running time: 0 days, 0 hours, 15 minutes, license mode:0
+[2015-09-18 01:07:49(578)]	Connection to streaming media server successfully!(udp delay:15ms)
+[2015-09-18 01:07:50(833)]	Success add upnp map(port:7751, tcp)
+[2015-09-18 01:07:51(373)]	Success add upnp map(port:50718, udp)
+[2015-09-18 01:07:59(907)]	Invoke	LogoutServer(userid=6)	Elapse:47 ms
+[2015-09-18 01:08:00(750)]	Invoke	LogoutServer(userid=5)	Elapse:32 ms
+[2015-09-18 01:08:01(745)]	Invoke	BRAC_Release	Elapse:375 ms
+[2015-09-18 01:08:02(565)]	Invoke	BRAC_Release	Elapse:31 ms

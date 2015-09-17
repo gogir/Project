@@ -29,6 +29,7 @@ namespace XSDAnyChat
         public const int XMSG_VideoCall_Request_Handler = 1024 - 1 + 71;
         public const int XMSG_File_OnReceive = 1024 - 1 + 70;
         public const int XMSG_Record_OnReceive = 1024 - 1 + 69;
+        public const int XMSG_Buffer_OnReceive = 1024 - 1 + 68;
 
         private string is_ReceiverMessageText = string.Empty;
 
@@ -36,6 +37,7 @@ namespace XSDAnyChat
         private int ii_RemoteUserId = 0;                              //远程用户ID
         private int ii_RoomId = 0;                                   //当前房间ID
         private string is_FileName = string.Empty;
+        private string is_Buffer = string.Empty;
 
         private IntPtr CallBackHandle;
 
@@ -51,9 +53,10 @@ namespace XSDAnyChat
             SystemSetting.Text_OnReceive = new TextReceivedHandler(Received_Text);
 
             string path = Application.StartupPath;
-            SystemSetting.TransFile_Received = new TransFileReceivedHandler(Received_TransFile);
-            SystemSetting.SetRecordReceivedCallBack = new SetRecordReceivedHandler(Record_Received);
-            
+            SystemSetting.TransFile_Received = new TransFileReceivedHandler(Received_TransFile);        //设置文件接受回调函数
+            SystemSetting.SetRecordReceivedCallBack = new SetRecordReceivedHandler(Record_Received);     //设置录像结束回调函数
+            SystemSetting.TransBuffer_OnReceive = new TransBufferReceivedHandler(TransBuffer_CallBack);
+
             AnyChatCoreSDK.SetSDKOption(AnyChatCoreSDK.BRAC_SO_CORESDK_PATH, path, path.Length);
         }
 
@@ -231,10 +234,37 @@ namespace XSDAnyChat
             return ii_RemoteUserId;
         }
 
-
+        //视频录像
         public int StreamRecordCtrlEx(int userId, bool startRecord)
         {
-            return AnyChatCoreSDK.StreamRecordCtrlEx(userId, startRecord, AnyChatCoreSDK.ANYCHAT_RECORD_FLAGS_MIXVIDEO, 0, "");
+            return AnyChatCoreSDK.StreamRecordCtrlEx(userId, startRecord, AnyChatCoreSDK.ANYCHAT_RECORD_FLAGS_ABREAST, 0, "");
+        }
+
+        //通过透明通道传递参数
+        public int TransMessage(int userId, string vs_msg)
+        {
+            byte[] bs = Encoding.Default.GetBytes(vs_msg);
+            return AnyChatCoreSDK.TransBuffer(userId, bs, bs.Length);
+        }
+
+        //返回透明通道获取的数据
+        public string GetBuffer()
+        {
+            return is_Buffer;
+        }
+
+        //透明通道回调函数
+        public void TransBuffer_CallBack(int userId, IntPtr buf, int len, int userValue)
+        {
+            try
+            {
+                is_Buffer = Marshal.PtrToStringAnsi(buf);
+                SendMessage(CallBackHandle, XMSG_Buffer_OnReceive, 0, 0);
+            }
+            catch (Exception err)
+            {
+                WriteLog("TransBuffer_CallBack:" + err.Message);
+            }
         }
     }
 }

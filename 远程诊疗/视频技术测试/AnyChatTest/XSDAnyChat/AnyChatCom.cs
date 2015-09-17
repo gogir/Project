@@ -95,6 +95,13 @@ namespace XSDAnyChat
         //录像
         [DispId(21)]
         int StreamRecordCtrlEx(int userId, bool startRecord);
+
+        //发送消息到指定用户
+        [DispId(22)]
+        int TransMessage(int userId, string vs_msg);
+
+        [DispId(23)]
+        string GetBuffer();
     }
 
     [Guid("B2FA4129-6064-4C5F-A093-6795D2BC4AD8"),
@@ -296,11 +303,22 @@ namespace XSDAnyChat
             return lComForm.GetRemoteId();
         }
 
-
         public int StreamRecordCtrlEx(int userId, bool startRecord)
         {
             InitComForm();
             return lComForm.StreamRecordCtrlEx(userId, startRecord);
+        }
+
+        public int TransMessage(int userId, string vs_msg)
+        {
+            InitComForm();
+            return lComForm.TransMessage(userId, vs_msg);
+        }
+
+        public string GetBuffer()
+        {
+            InitComForm();
+            return lComForm.GetBuffer();
         }
     }
 }
