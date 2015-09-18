@@ -228,18 +228,21 @@ namespace XSDAnyChat
         public int UserCameraControl(int userid, bool open)
         {
             InitComForm();
+            lComForm.WriteLog("UserCameraControl(userid=" + userid.ToString() + ",open=" + open.ToString());
             return AnyChatCoreSDK.UserCameraControl(userid, open);
         }
 
         public int UserSpeakControl(int userid, bool open)
         {
             InitComForm();
+            lComForm.WriteLog("UserSpeakControl(userid=" + userid.ToString() + ",open=" + open.ToString());
             return AnyChatCoreSDK.UserSpeakControl(userid, open);
         }
 
         public int SetVideoPos(int userid, int hWnd, int left, int top, int right, int bottom)
         {
             InitComForm();
+            lComForm.WriteLog("SetVideoPos(userid=" + userid.ToString() + ",hWnd=" + hWnd.ToString() + "," + left.ToString() + "," + top.ToString() + "," + right.ToString() + "," + bottom.ToString());
             return AnyChatCoreSDK.SetVideoPos(userid,new IntPtr(hWnd),left,top,right,bottom);
         }
 
@@ -277,7 +280,7 @@ namespace XSDAnyChat
         }
 
         public int TransFile(string vs_FileName)
-        {
+        { 
             InitComForm();
             return lComForm.TransFile(vs_FileName);
         }

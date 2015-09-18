@@ -48,3 +48,14 @@
 [2015-09-16 22:50:31(028)]	Successful communicate with the business server!
 [2015-09-16 23:49:22(580)]	Successful communicate with the record server!(127.0.0.1:54882, id:-1)
 [2015-09-17 00:14:18(466)]	Fails to communicate with the business server!
+[2015-09-18 08:52:37(979)]	---------------------Init Service--------------------------
+[2015-09-18 08:52:38(079)]	Current File Version[5, 3, 0, 0],Build time:2015-08-10 12:21:30
+[2015-09-18 08:52:38(283)]	Load brservernetlayer.dll success!(V5.3, Build time:Aug 10 2015 12:20:58)
+[2015-09-18 08:52:38(359)]	Start TCP Server Successed(port=8906)!
+[2015-09-18 08:52:38(480)]	Start UDP Server Successed(port=8907)!
+[2015-09-18 08:52:38(537)]	AnyChat IPC Filter Plus Init, Build Time:Aug 10 2015 12:21:02
+[2015-09-18 08:52:38(538)]	Load SDK Filter Plus:IPCFilterPlus.dll Success, ver:SDK Filter Plus (IPC), for Windows V5.3
+[2015-09-18 08:52:38(545)]	Start Server At Demo Mode!
+[2015-09-18 08:52:42(858)]	Successful communicate with the business server!
+[2015-09-18 09:01:32(760)]	Fails to communicate with the business server!
+[2015-09-18 09:01:38(055)]	AnyChatCoreServer has exited with error code:0

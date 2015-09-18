@@ -196,7 +196,7 @@ namespace XSDAnyChat
         }
 
         //记录日志
-        private void WriteLog(string ls_Msg)
+        public void WriteLog(string ls_Msg)
         {
             string ls_file = @"XSDAnyChatLog.txt";
             if (File.Exists(ls_file))
@@ -216,8 +216,8 @@ namespace XSDAnyChat
         public int VideoCallControl(int dwEventType, int dwUserId, int dwErrorCode, int dwFlags, int dwParam, string lpUserStr)
         {
             ii_RemoteUserId = dwUserId;
-            WriteLog("VideoCallControl:ii_RemoteId = " + ii_RemoteUserId.ToString());
-            WriteLog("VideoCallControl:ii_LocalUserId = " + ii_LocalUserId.ToString());
+            //WriteLog("VideoCallControl:ii_RemoteId = " + ii_RemoteUserId.ToString());
+            //WriteLog("VideoCallControl:ii_LocalUserId = " + ii_LocalUserId.ToString());
             return AnyChatCoreSDK.VideoCallControl(dwEventType, dwUserId, dwErrorCode, dwFlags, dwParam, lpUserStr);
         }
 
@@ -228,7 +228,7 @@ namespace XSDAnyChat
             ii_RoomId = 0;
             is_FileName = string.Empty;
         }
-
+        
         public int GetRemoteId()
         {
             return ii_RemoteUserId;

@@ -1,20 +1,96 @@
-[2015-09-18 01:07:49(177)]	---------------------------AnyChat Platform Core SDK Client Log---------------------------
-[2015-09-18 01:07:49(177)]	Load BRAnyChatCore.dll success!(V5.3 Build Time:Aug 10 2015 12:20:22)
-[2015-09-18 01:07:49(182)]	Load BRMiscUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:50)
-[2015-09-18 01:07:49(254)]	Load BRMediaUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:02)
-[2015-09-18 01:07:49(256)]	Load BRMediaShow.dll success!(V5.3 Build Time:Aug 10 2015 12:20:53)
-[2015-09-18 01:07:49(258)]	Load BRMediaCore.dll success!(V5.3 Build Time:Aug 10 2015 12:21:04)
-[2015-09-18 01:07:49(324)]	Invoke	Connect(127.0.0.1,8906)=0
-[2015-09-18 01:07:49(360)]	CheckClientSocketLink	 Connect(ip=127.0.0.1,port=8906)
-[2015-09-18 01:07:49(459)]	Server version: V5.3(Build Time:2015-08-10 12:21:30, Server OS:Windows)
-[2015-09-18 01:07:49(467)]	Message	OnConnect(bSuccess:1, errorcode=0)
-[2015-09-18 01:07:49(483)]	Invoke	LoginServer(username= ”∆µ≤‚ ‘2)
-[2015-09-18 01:07:49(554)]	Message	OnLoginSystem(userid=6,errorcode=0,username= ”∆µ≤‚ ‘2), msg deliver worked(1)
-[2015-09-18 01:07:49(555)]	Server running time: 0 days, 0 hours, 15 minutes, license mode:0
-[2015-09-18 01:07:49(578)]	Connection to streaming media server successfully!(udp delay:15ms)
-[2015-09-18 01:07:50(833)]	Success add upnp map(port:7751, tcp)
-[2015-09-18 01:07:51(373)]	Success add upnp map(port:50718, udp)
-[2015-09-18 01:07:59(907)]	Invoke	LogoutServer(userid=6)	Elapse:47 ms
-[2015-09-18 01:08:00(750)]	Invoke	LogoutServer(userid=5)	Elapse:32 ms
-[2015-09-18 01:08:01(745)]	Invoke	BRAC_Release	Elapse:375 ms
-[2015-09-18 01:08:02(565)]	Invoke	BRAC_Release	Elapse:31 ms
+[2015-09-18 10:25:17(379)]	---------------------------AnyChat Platform Core SDK Client Log---------------------------
+[2015-09-18 10:25:17(380)]	Load BRAnyChatCore.dll success!(V5.3 Build Time:Aug 10 2015 12:20:22)
+[2015-09-18 10:25:17(397)]	Load BRMiscUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:50)
+[2015-09-18 10:25:17(450)]	Load BRMediaUtil.dll success!(V5.3 Build Time:Aug 10 2015 12:20:02)
+[2015-09-18 10:25:17(484)]	Load BRMediaShow.dll success!(V5.3 Build Time:Aug 10 2015 12:20:53)
+[2015-09-18 10:25:17(484)]	Load BRMediaShow.dll success!(V5.3 Build Time:Aug 10 2015 12:20:53)
+[2015-09-18 10:25:17(977)]	Load BRMediaCore.dll success!(V5.3 Build Time:Aug 10 2015 12:21:04)
+[2015-09-18 10:25:17(977)]	Load BRMediaCore.dll success!(V5.3 Build Time:Aug 10 2015 12:21:04)
+[2015-09-18 10:25:18(653)]	Invoke	Connect(221.237.179.48,9101)=0
+[2015-09-18 10:25:18(659)]	Invoke	Connect(221.237.179.48,9101)=0
+[2015-09-18 10:25:18(680)]	CheckClientSocketLink	 Connect(ip=221.237.179.48,port=9101)
+[2015-09-18 10:25:18(741)]	CheckClientSocketLink	 Connect(ip=221.237.179.48,port=9101)
+[2015-09-18 10:25:19(007)]	Server version: V5.3(Build Time:2015-08-10 12:21:30, Server OS:Windows)
+[2015-09-18 10:25:19(157)]	Server version: V5.3(Build Time:2015-08-10 12:21:30, Server OS:Windows)
+[2015-09-18 10:25:19(500)]	Message	OnConnect(bSuccess:1, errorcode=0)
+[2015-09-18 10:25:19(501)]	Message	OnConnect(bSuccess:1, errorcode=0)
+[2015-09-18 10:25:19(618)]	Invoke	LoginServer(username= ”∆µ≤‚ ‘1)
+[2015-09-18 10:25:19(625)]	Invoke	LoginServer(username= ”∆µ≤‚ ‘2)
+[2015-09-18 10:25:20(011)]	Message	OnLoginSystem(userid=5,errorcode=0,username= ”∆µ≤‚ ‘1), msg deliver worked(1)
+[2015-09-18 10:25:20(012)]	Server running time: 0 days, 1 hours, 6 minutes, license mode:0
+[2015-09-18 10:25:20(032)]	Success add upnp map(port:55685, tcp)
+[2015-09-18 10:25:20(090)]	Message	OnLoginSystem(userid=6,errorcode=0,username= ”∆µ≤‚ ‘2), msg deliver worked(1)
+[2015-09-18 10:25:20(091)]	Server running time: 0 days, 1 hours, 6 minutes, license mode:0
+[2015-09-18 10:25:20(126)]	Success add upnp map(port:55684, tcp)
+[2015-09-18 10:25:25(933)]	Invoke	VideoCallControl(EventType:1, UserId:5, ErrorCode:0, dwFlags:0, dwParam:0, UserStr: ”∆µ≤‚ ‘2)=0
+[2015-09-18 10:25:25(994)]	Message	OnVideoCallEvent(EventType:2, UserId:5, ErrorCode:0, dwFlags:0x0, dwParam:0
+[2015-09-18 10:25:26(019)]	Message	OnVideoCallEvent(EventType:1, UserId:6, ErrorCode:0, dwFlags:0x0, dwParam:0
+[2015-09-18 10:25:27(210)]	Invoke	VideoCallControl(EventType:2, UserId:6, ErrorCode:0, dwFlags:0, dwParam:0, UserStr:)=0
+[2015-09-18 10:25:27(766)]	Message	OnVideoCallEvent(EventType:3, UserId:6, ErrorCode:0, dwFlags:0x0, dwParam:1
+[2015-09-18 10:25:27(772)]	Invoke	EnterRoom(roomid=1)
+[2015-09-18 10:25:27(776)]	Message	OnVideoCallEvent(EventType:3, UserId:5, ErrorCode:0, dwFlags:0x0, dwParam:1
+[2015-09-18 10:25:27(780)]	Invoke	EnterRoom(roomid=1)
+[2015-09-18 10:25:28(136)]	Message	OnEnterRoom(roomid=1,errorcode=0,siteindex=1)
+[2015-09-18 10:25:28(136)]	Message	OnReceiveOnlineUser(count=2,roomid=1)
+[2015-09-18 10:25:28(137)]	Warning: The UDP communication with the server abnormal!
+[2015-09-18 10:25:28(140)]	Audio Capture(Driver:3, ) Init Failed:10500, (6.1.7600[1537])
+[2015-09-18 10:25:28(141)]	Audio Init, error:10500, device:0, 0, 0, 0, capmode:0
+[2015-09-18 10:25:28(141)]	Audio Playback Device Init(10500, 2, 44100, 16), WaveOut Playback Driver
+[2015-09-18 10:25:28(142)]	Invoke	UserCameraControl(userid=6, bOpen=1, stream=0)
+[2015-09-18 10:25:28(167)]	Message	OnEnterRoom(roomid=1,errorcode=0,siteindex=0)
+[2015-09-18 10:25:28(167)]	Message	OnReceiveOnlineUser(count=1,roomid=1)
+[2015-09-18 10:25:28(168)]	Message	OnUserEnterRoom(userid=6,nickname= ”∆µ≤‚ ‘2,siteindex=1)
+[2015-09-18 10:25:28(168)]	Warning: The UDP communication with the server abnormal!
+[2015-09-18 10:25:28(169)]	Audio Capture(Driver:3, ) Init Failed:10500, (6.1.7600[1537])
+[2015-09-18 10:25:28(174)]	Invoke	UserCameraControl(userid=5, bOpen=1, stream=0)
+[2015-09-18 10:25:28(175)]	Audio Init, error:10500, device:0, 0, 0, 0, capmode:0
+[2015-09-18 10:25:28(178)]	Audio Playback Device Init(10500, 2, 44100, 16), WaveOut Playback Driver
+[2015-09-18 10:25:28(383)]	Message	OnP2PConnectState(userid=5, state=2)
+[2015-09-18 10:25:28(398)]	Invoke	UserSpeakControl(userid=6,bOpen=1)
+[2015-09-18 10:25:28(402)]	Invoke	SetVideoPos(dwUserId:6, hWnd:0x70ac6, l:0, t:0, r:320, b:240)
+[2015-09-18 10:25:28(406)]	Invoke	UserCameraControl(userid=5, bOpen=1, stream=0)
+[2015-09-18 10:25:28(410)]	Invoke	UserSpeakControl(userid=5,bOpen=1)
+[2015-09-18 10:25:28(414)]	Invoke	SetVideoPos(dwUserId:5, hWnd:0xa0ab0, l:0, t:0, r:320, b:240)
+[2015-09-18 10:25:28(425)]	Message	OnP2PConnectState(userid=6, state=2)
+[2015-09-18 10:25:28(436)]	Invoke	UserSpeakControl(userid=5,bOpen=1)
+[2015-09-18 10:25:28(445)]	Invoke	SetVideoPos(dwUserId:5, hWnd:0x40ad2, l:0, t:0, r:320, b:240)
+[2015-09-18 10:25:28(452)]	Invoke	UserCameraControl(userid=6, bOpen=1, stream=0)
+[2015-09-18 10:25:28(460)]	Invoke	UserSpeakControl(userid=6,bOpen=1)
+[2015-09-18 10:25:28(468)]	Invoke	SetVideoPos(dwUserId:6, hWnd:0x130370, l:0, t:0, r:320, b:240)
+[2015-09-18 10:25:28(482)]	****Open Local Video Fail,ErrorCode:10011
+[2015-09-18 10:25:28(490)]	****Open Local Video Fail,ErrorCode:10011
+[2015-09-18 10:25:28(715)]	On Remote UserCameraControl(dwUserId:6, bOpen:1)
+[2015-09-18 10:25:28(753)]	Message	OnP2PConnectState(userid=5, state=3)
+[2015-09-18 10:25:28(783)]	On Remote UserCameraControl(dwUserId:5, bOpen:1)
+[2015-09-18 10:25:28(785)]	On Remote UserSpeakControl(dwUserId:6, bOpen:1)
+[2015-09-18 10:25:28(785)]	Message	OnP2PConnectState(userid=6, state=3)
+[2015-09-18 10:25:28(993)]	On Remote UserSpeakControl(dwUserId:5, bOpen:1)
+[2015-09-18 10:26:10(061)]	Invoke	TransFile(dwUserid=5, dwTaskId:4044, PathName:F:\V10Õº∆¨ø‚\÷–ª∆…´.jpg)=0
+[2015-09-18 10:38:17(266)]	Message	OnP2PConnectState(userid=5, state=2)
+[2015-09-18 10:38:17(269)]	Message	OnP2PConnectState(userid=6, state=2)
+[2015-09-18 10:38:17(423)]	Message	OnP2PConnectState(userid=5, state=0)
+[2015-09-18 10:38:17(423)]	Message	OnP2PConnectState(userid=6, state=0)
+[2015-09-18 10:38:45(497)]	Message	OnP2PConnectState(userid=5, state=2)
+[2015-09-18 10:38:45(539)]	Message	OnP2PConnectState(userid=6, state=2)
+[2015-09-18 10:38:52(403)]	Message	OnP2PConnectState(userid=5, state=3)
+[2015-09-18 10:38:52(443)]	Message	OnP2PConnectState(userid=6, state=3)
+[2015-09-18 10:40:18(804)]	Message	OnVideoCallEvent(EventType:4, UserId:5, ErrorCode:100106, dwFlags:0x0, dwParam:0
+[2015-09-18 10:40:18(834)]	Invoke	UserCameraControl(userid=-1, bOpen=0, stream=0)
+[2015-09-18 10:40:18(846)]	Invoke	UserSpeakControl(userid=-1,bOpen=0)
+[2015-09-18 10:40:18(848)]	Invoke	UserCameraControl(userid=5, bOpen=0, stream=0)
+[2015-09-18 10:40:18(849)]	Invoke	UserSpeakControl(userid=5,bOpen=0)
+[2015-09-18 10:40:18(884)]	Invoke	LeaveRoom(roomid=-1)	Elapse:31 ms
+[2015-09-18 10:40:18(910)]	socket error, disconnected by peer!, bTcp(1) - userid(-1)
+[2015-09-18 10:40:18(910)]	OnSocketClose, index(2)-errorcode(0-183), flags:0x441, bTcp(1),userid(-1), list:0
+
+[2015-09-18 10:40:18(924)]	Invoke	LeaveRoom(roomid=-1)	Elapse:0 ms
+[2015-09-18 10:40:18(979)]	Message	OnLinkClose(reason=2, dwErrorCode:105)
+[2015-09-18 10:40:18(991)]	OnSocketClose, index(3)-errorcode(0-0), flags:0x481, bTcp(1),userid(5), list:0
+
+[2015-09-18 10:40:19(130)]	OnSocketClose, index(2)-errorcode(0-0), flags:0x441, bTcp(1),userid(-1), list:0
+
+[2015-09-18 10:40:19(137)]	Message	OnLinkClose(reason=2, dwErrorCode:105)
+[2015-09-18 10:41:57(089)]	Invoke	LogoutServer(userid=5)	Elapse:16 ms
+[2015-09-18 10:41:58(159)]	Invoke	BRAC_Release	Elapse:16 ms
+[2015-09-18 10:41:59(824)]	Invoke	LogoutServer(userid=6)	Elapse:0 ms
+[2015-09-18 10:42:00(514)]	Invoke	BRAC_Release	Elapse:15 ms

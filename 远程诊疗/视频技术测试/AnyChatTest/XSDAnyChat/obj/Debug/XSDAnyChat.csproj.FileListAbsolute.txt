@@ -17,3 +17,12 @@ D:\Project_Management\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\obj
 D:\Project_Management\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\obj\Debug\XSDAnyChat.csproj.GenerateResource.Cache
 D:\Project_Management\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\obj\Debug\XSDAnyChat.dll
 D:\Project_Management\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\obj\Debug\XSDAnyChat.pdb
+E:\Project\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\bin\Debug\XSDAnyChat.dll
+E:\Project\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\bin\Debug\XSDAnyChat.pdb
+E:\Project\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\bin\Debug\XSDAnyChat.tlb
+E:\Project\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\bin\Debug\VideoChatHelp.dll
+E:\Project\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\bin\Debug\VideoChatHelp.pdb
+E:\Project\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\obj\Debug\XSDAnyChat.ComForm.resources
+E:\Project\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\obj\Debug\XSDAnyChat.dll
+E:\Project\远程诊疗\视频技术测试\AnyChatTest\XSDAnyChat\obj\Debug\XSDAnyChat.pdb

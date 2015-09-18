@@ -22,3 +22,5 @@ D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyC
 D:\Project_Management\远程诊疗\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatClient\obj\x86\Debug\VideoChatClient.csproj.GenerateResource.Cache
 D:\Project_Management\远程诊疗\技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatClient\obj\x86\Debug\VideoChatClient.exe
 D:\Project_Management\远程诊疗\技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatClient\obj\x86\Debug\VideoChatClient.pdb
+E:\Project\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatClient\obj\x86\Debug\VideoChatClient.exe
+E:\Project\远程诊疗\视频技术测试\AnyChatCoreSDK_Win32_r4840\src\client\c#\AnyChatCallCenter\VideoChatClient\obj\x86\Debug\VideoChatClient.pdb

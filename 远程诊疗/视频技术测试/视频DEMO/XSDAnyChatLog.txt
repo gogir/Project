@@ -22,3 +22,18 @@
 2015/9/17 0:10:25    Record_Received:C:\Users\GIR\AppData\Local\Temp\2015-09-17\00-10-20-969_视频测试2_16.mp4,userId:5
 2015/9/17 0:12:19    VideoCallControl:ii_RemoteId = 6
 2015/9/17 0:12:19    VideoCallControl:ii_LocalUserId = 5
+2015-09-18 8:54:45    VideoCallControl:ii_RemoteId = 3
+2015-09-18 8:54:45    VideoCallControl:ii_LocalUserId = 4
+2015-09-18 8:55:26    VideoCallControl:ii_RemoteId = 3
+2015-09-18 8:55:26    VideoCallControl:ii_LocalUserId = 4
+2015-09-18 8:55:39    VideoCallControl:ii_RemoteId = 3
+2015-09-18 8:55:39    VideoCallControl:ii_LocalUserId = 4
+2015-09-18 8:55:55    VideoCallControl:ii_RemoteId = 3
+2015-09-18 8:55:55    VideoCallControl:ii_LocalUserId = 4
+2015-09-18 9:20:58    VideoCallControl:ii_RemoteId = 1
+2015-09-18 9:20:58    VideoCallControl:ii_LocalUserId = 2
+2015-09-18 10:04:17    VideoCallControl:ii_RemoteId = 4
+2015-09-18 10:04:17    VideoCallControl:ii_LocalUserId = 3
+2015-09-18 10:25:25    VideoCallControl:ii_RemoteId = 5
+2015-09-18 10:25:25    VideoCallControl:ii_LocalUserId = 6
+2015-09-18 10:26:13    Received_TransFile:中黄色.jpg,userId:6
